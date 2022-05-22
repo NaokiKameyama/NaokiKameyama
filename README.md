@@ -1,4 +1,15 @@
+<div align="center">
+  <a target="_blank" href="https://shop.ledger.com?r=3ae057a09ca4">
+    <img algin="center" src="https://www.ledger.com/wp-content/themes/ledger-v2/public/images/ledger-logo-long.svg" />
+  </a>
+  
+  <br />  <br />
+  
   <p>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" /></p>
+  
+  <p>PdM at <a target="_blank" href="[https://shop.ledger.com?r=3ae057a09ca4](https://paypay.ne.jp/)">PayPay</a> in Japan.</p>
+
+</div>
 
 <!--
 **NaokiKameyama/NaokiKameyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
