@@ -1,7 +1,7 @@
 <div align="center">  
   <br />  <br />
   
-  <h2>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" /></h2>  
+  <h2>Hi there! <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="20px" /></h2>  
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NaokiKameyama&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
