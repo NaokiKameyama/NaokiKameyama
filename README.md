@@ -1,7 +1,6 @@
 <div align="center">  
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="80%"> 
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NaokiKameyama&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaokiKameyama&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaokiKameyama&theme=dracula)
