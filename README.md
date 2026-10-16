@@ -10,7 +10,6 @@
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaokiKameyama&theme=dracula)
   
-![trophy](https://github-profile-trophy.vercel.app/?username=NaokiKameyama&theme=dracula&column=7)
   
 ![](https://activity-graph.herokuapp.com/graph?username=NaokiKameyama&theme=dracula&hide_border=true)
 
